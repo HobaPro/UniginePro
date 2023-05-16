@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>4820bf71a468b21cb17326cbea8fcdae87adb935</guid>
+	<type>component</type>
+	<hash>d572054</hash>
+	<runtimes>
+		<runtime id="4820bf71a468b21cb17326cbea8fcdae87adb935" name="CarMovement.cs" link="0"/>
+		<runtime id="062d011f97315bf28f350aa9aee0d3f46520eec3" name="CarMovement.prop" link="1" type="4"/>
+	</runtimes>
+</asset>
