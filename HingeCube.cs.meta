@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>d4728f8db0376b88c45f9947444b05fa2e09dd11</guid>
+	<type>component</type>
+	<hash>7d9f005d</hash>
+	<runtimes>
+		<runtime id="d4728f8db0376b88c45f9947444b05fa2e09dd11" name="HingeCube.cs" link="0"/>
+		<runtime id="e4377e5b467b9ffeb24347450dfc0fe0ed6f01bf" name="HingeCube.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

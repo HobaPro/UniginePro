@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>1b75ab563f12eabde6612cf80b810bf767dff8ea</guid>
+	<type>component</type>
+	<hash>078ffbe4</hash>
+	<runtimes>
+		<runtime id="1b75ab563f12eabde6612cf80b810bf767dff8ea" name="moveCameraTrget.cs" link="0"/>
+		<runtime id="dfd9585cd4a9180bc1ac8deeaefcfc75934b6350" name="moveCameraTrget.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

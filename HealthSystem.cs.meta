@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>5dc767dd978647986c9f2617e1f00c8a94189261</guid>
+	<type>component</type>
+	<hash>c8ddf47f</hash>
+	<runtimes>
+		<runtime id="5dc767dd978647986c9f2617e1f00c8a94189261" name="HealthSystem.cs" link="0"/>
+	</runtimes>
+</asset>

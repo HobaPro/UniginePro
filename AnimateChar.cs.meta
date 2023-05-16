@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>ffe0817f53d520d29dd74a0942be4bd4da034523</guid>
+	<type>component</type>
+	<hash>3bdb1fba</hash>
+	<runtimes>
+		<runtime id="ffe0817f53d520d29dd74a0942be4bd4da034523" name="AnimateChar.cs" link="0"/>
+		<runtime id="3eaf49bd762bfff8c3dfc2f7609943ead720a241" name="AnimateChar.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

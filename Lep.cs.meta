@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>a0d8f9df41c97db2222141699b701bb480be1383</guid>
+	<type>component</type>
+	<hash>d0271f6a</hash>
+	<runtimes>
+		<runtime id="a0d8f9df41c97db2222141699b701bb480be1383" name="Lep.cs" link="0"/>
+		<runtime id="3b5d2f1dfac4e5d8de1aaf57452584caa9f92da1" name="Lep.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

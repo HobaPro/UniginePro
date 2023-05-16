@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>4852c1b2cc31b569207dffb40f4aa7831dc2a706</guid>
+	<type>component</type>
+	<hash>41e93b8e</hash>
+	<runtimes>
+		<runtime id="4852c1b2cc31b569207dffb40f4aa7831dc2a706" name="MoveTokTok.cs" link="0"/>
+		<runtime id="e78609d85c418357d99648ca45cb21a1ffdece8c" name="MoveTokTok.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

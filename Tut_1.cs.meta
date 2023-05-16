@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>c819f99c1f70c84b544a012e1e2756b5e8a77890</guid>
+	<type>component</type>
+	<hash>8e35df5b</hash>
+	<runtimes>
+		<runtime id="c819f99c1f70c84b544a012e1e2756b5e8a77890" name="Tut_1.cs" link="0"/>
+		<runtime id="47c027724b0a602992472b7443b06043594988c6" name="Tut_1.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

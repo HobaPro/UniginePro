@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>bfff06b0403c6a4ff392d362bfaebb59e2a4ece4</guid>
+	<type>component</type>
+	<hash>829c522a</hash>
+	<runtimes>
+		<runtime id="bfff06b0403c6a4ff392d362bfaebb59e2a4ece4" name="CubePhysics.cs" link="0"/>
+		<runtime id="4e3ab5e65d59d40d79c0e608bda9d1c70412e47a" name="CubePhysics.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

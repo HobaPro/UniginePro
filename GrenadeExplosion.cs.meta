@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>0307c9031f365a865158f02d420a13a8862ee2e7</guid>
+	<type>component</type>
+	<hash>f9c4982</hash>
+	<runtimes>
+		<runtime id="0307c9031f365a865158f02d420a13a8862ee2e7" name="GrenadeExplosion.cs" link="0"/>
+		<runtime id="3d23f721cdf2a60c971629fbd6cc171eb7f013e5" name="GrenadeExplosion.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

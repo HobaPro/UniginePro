@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>c717caffa66cdc5293c0cf89d44b1354d12666a3</guid>
+	<type>component</type>
+	<hash>7536f7e5</hash>
+	<runtimes>
+		<runtime id="c717caffa66cdc5293c0cf89d44b1354d12666a3" name="CMesh.cs" link="0"/>
+		<runtime id="9985073dbe079f787f13dc7721e78f6a39af77c1" name="CMesh.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>5368f62854bf636780d1099a00e9cc316072d7dc</guid>
+	<type>component</type>
+	<hash>1a299005</hash>
+	<runtimes>
+		<runtime id="5368f62854bf636780d1099a00e9cc316072d7dc" name="InstantiateUU.cs" link="0"/>
+		<runtime id="8991259eba38d065ae36c6804ace07dfe4cf33b2" name="InstantiateUU.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

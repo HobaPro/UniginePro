@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>a7c44819009192a49644bdb3c7fce776c305b85d</guid>
+	<type>component</type>
+	<hash>62ee0798</hash>
+	<runtimes>
+		<runtime id="a7c44819009192a49644bdb3c7fce776c305b85d" name="Forces.cs" link="0"/>
+		<runtime id="f973588781bf3c3ae6ce1e510ae3c37ca0ff48ab" name="Forces.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

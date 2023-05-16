@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.0.1">
+	<guid>70fab380642f10dfb952a8b20e3a706938717eb4</guid>
+	<type>component</type>
+	<hash>b0d0a9b4</hash>
+	<runtimes>
+		<runtime id="70fab380642f10dfb952a8b20e3a706938717eb4" name="Nameis.cs" link="0"/>
+		<runtime id="ca48e436d6560e1dc94238d86489e657c7b54fca" name="Nameis.prop" link="1" type="4"/>
+	</runtimes>
+</asset>
